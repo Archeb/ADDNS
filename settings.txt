@@ -1,0 +1,5 @@
+DDNSServiceProvider DNSPOD.sh
+DDNSServiceToken1 114514
+DDNSServiceToken2 yourTokenhere
+DDNSDomain yourDomainIDhere
+DUID yourDUIDhere sub.domain RecordID 2001:db8::1
