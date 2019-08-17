@@ -4,6 +4,10 @@
 
 Lookup odhcp IPv6 lease and DDNS for **every single** device in your network.
 
+在 OpenWRT 18.06 上测试通过
+
+Working on OpenWRT 18.06.
+
 ### 使用方法
 
 编辑 settings.txt
