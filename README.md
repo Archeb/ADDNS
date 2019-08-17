@@ -30,6 +30,10 @@ Fill up the arguments then add DUID items following the above format.
 
 Make sure 2001:db8::1 in each DUID item are unique.
 
+然后把他使用 crontab 定时执行即可（请自行百度）
+
+Then make it run regularly using crontab. (Google it)
+
 目前支持DNSPOD作为DNS提供商，只要遵循以下参数顺序，你也可以添加你自己的DNS提供商支持，把它放到providers文件夹然后修改DDNSServiceProvider对应的文件名即可
 
 Now only supports https://www.dnspod.cn/ as DDNS provider, you can add your custom provider support accroding to the format below. Put your script into `providers` and modify DDNSServiceProvider argument.
